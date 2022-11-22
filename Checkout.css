@@ -1,0 +1,122 @@
+.payment-window {
+    position: absolute;
+    width: 469px;
+    height: 642px;
+    left: 941px;
+    top: 100px;
+    border: 1px solid black;
+}
+
+.address-window {
+    position: absolute;
+    width: 821px;
+    height: 649px;
+    left: 34px;
+    top: 100px;
+    border: 1px solid black;
+}
+
+.text-design {
+    margin: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.07em;
+
+    color: #000000;
+}
+.total-bill{
+    position: relative;
+    left: 10px;
+    margin-top: 20px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.07em;
+
+}
+
+
+
+.postin-pay-btn{
+    position: relative;
+    top: 11%;
+    text-align: center;
+    
+}
+.btn-size{
+    height: 40px;
+    border-radius: 30px;
+
+}
+.detail-1{
+    position: relative;
+    width: 256px;
+    height: 43px;
+    left: 15px;
+    top: 9px;
+}
+.detail-2{
+    position: relative;
+    width: 256px;
+    height: 43px;
+    top: 50px;
+    left: 15px;
+
+}
+
+.detail-3{
+    position: relative;
+    width: 256px;
+    height: 43px;
+    top: 89px;
+    left: 15px;
+}
+.detail-4{
+    position: relative;
+    width: 256px;
+    height: 43px;
+    top: 135px;
+    left: 15px;
+
+}
+.email-div{
+    position: relative;
+    left: 35%;
+    top: -25%;
+}
+.save-address-btn{
+    position: relative;
+    left: 2%;
+    top: 27%;
+}
+.btn-size-of-address{
+    width: 50%;
+}
+.addressofuser{
+    position: relative;
+    left: 37%;
+    top: -12%;
+    height: 45px;
+    width: 189px;
+    
+}
+.address-radio{
+    position: relative;
+    left: -11%;
+    top: 54%;
+}

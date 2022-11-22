@@ -1,0 +1,17 @@
+.prosam-container{
+    position: absolute;
+    height: 25%;
+    width: 15%;
+    border: 1px solid black;
+    top: 15%;
+    left: 5%;
+}
+.btn-container{
+    position: absolute;
+    top:85%;
+
+}
+.btn-min{
+    position: relative;
+    left:105%;
+}

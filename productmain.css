@@ -1,0 +1,151 @@
+.product-img-1 {
+    position: absolute;
+    width: 382px;
+    height: 403px;
+    left: 58px;
+    top: 94px;
+
+    background: #2B0707;
+    border: 1px solid black;
+}
+
+.product-img-2 {
+    position: absolute;
+    width: 376px;
+    height: 403px;
+    left: 453px;
+    top: 94px;
+    border: 1px solid black;
+}
+
+.product-img-3 {
+    position: absolute;
+    width: 382px;
+    height: 403px;
+    left: 58px;
+    top: 521px;
+    border: 1px solid black;
+}
+
+.product-img-4 {
+
+    position: absolute;
+    width: 380px;
+    height: 403px;
+    left: 451px;
+    top: 521px;
+    border: 1px solid black;
+}
+
+.product-name {
+    position: absolute;
+    width: 352px;
+    height: 44px;
+    left: 979px;
+    top: 94px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.product-mrp-details {
+    position: absolute;
+    width: 123px;
+    height: 23px;
+    left: 988px;
+    top: 192px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.button-position {
+    position: absolute;
+    width: 412px;
+    height: 38px;
+    left: 986px;
+    top: 225px;
+    text-align: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+
+    align-items: center;
+
+
+    color: #000000;
+}
+
+.btn-size {
+    width: 8cm;
+}
+
+.product-discription-2 {
+    position: absolute;
+    width: 427px;
+    height: 26px;
+    left: 991px;
+    top: 300px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.size-details {
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    left: 986px;
+    top: 147px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}

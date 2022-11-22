@@ -1,0 +1,56 @@
+.product-image-homecoml4 {
+    position: relative;
+    border: 1px solid black;
+    width: 338px;
+    height: 273px;
+    background-size: cover;
+    
+}
+
+.product-brand-homecoml4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.product-discriptionl4{
+    position: relative;
+    left: 3px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+
+.product-price-homcoml4{
+    position: relative;
+    left: 3px;
+    top: 17px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+color: #000000;
+text-align: center;
+
+}

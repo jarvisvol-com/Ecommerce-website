@@ -1,0 +1,57 @@
+.home-text{
+    /* position: relative; */
+    position: absolute;
+    top:10px;
+    left: 7%;
+    opacity: 1;
+    color: white;
+}
+.brand-text{
+    text-decoration: solid;
+    font-size: 20px;
+    position: absolute;
+    top: 8px;
+    left: 5px;
+    font-weight: bolder;
+    color: white;
+}
+.about-text{
+    position: absolute;
+    top:10px;
+    left: 11.5%;
+    opacity: 1;
+    color: white;
+}
+.product-text{
+    position: absolute;
+    top:10px;
+    left: 15%;
+    opacity: 1;
+    color: white;
+}
+#input-container{
+    position: absolute;
+    top: 10px;
+    left: 80%;
+}
+.input-text{
+    position: relative;
+    right: 10px;
+    top: 2px;
+}
+.welcome-container{
+    position: absolute;
+    left:37%;
+    color: white;
+}
+
+.nav-container{
+    background-color:black;
+    position: absolute;
+    height: 8%;
+    width: 100%;
+}
+.btn-size-of-search{
+    height: 35px;
+    border-radius: 8px;
+}

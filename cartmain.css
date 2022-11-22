@@ -1,0 +1,24 @@
+.product-cart {
+    margin: 3%;
+    width: 988px;
+    height: 295px;
+    left: 5px;
+    top: 116px;
+    border: 1px solid black;
+}
+.product-details-cart{
+    position: relative;
+    left: 10px;
+    top: 8px;
+}
+
+.product-img {
+    position: relative;
+    width: 321px;
+    height: 252px;
+    left: 63%;
+    top: -98px;
+    background-color: aliceblue;
+
+}
+

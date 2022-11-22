@@ -1,0 +1,189 @@
+.women-container {
+    position: absolute;
+    width: 612px;
+    height: 294px;
+    left: 16px;
+    top: 102px;
+
+
+    background: url("./img/istockphoto-1208148708-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.men-container {
+    position: absolute;
+    width: 615px;
+    height: 294px;
+    left: 811px;
+    top: 102px;
+    background: url("./img/handsome-business-man-suit_1303-11230.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.offer-container {
+
+    position: absolute;
+    width: 209px;
+    height: 274px;
+    left: 593px;
+    top: 102px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #404509;
+
+}
+
+.product-container-1 {
+    position: absolute;
+    width: 244px;
+    height: 213px;
+    left: 20px;
+    top: 512px;
+
+    background: url("./img/mensCloths/istockphoto-148219720-612x612.jpg");
+    background-size: cover;
+}
+
+.product-discription {
+    position: absolute;
+    width: 139px;
+    height: 19px;
+    left: 20px;
+    top: 95%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.price-container {
+    position: absolute;
+    width: 84px;
+    height: 19px;
+    left: 23px;
+    top: 758px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.buy-btn {
+    position: absolute;
+    width: 75px;
+    height: 30px;
+    left: 23px;
+    top: 780px;
+
+}
+
+.star {
+    position: absolute;
+    width: 22px;
+    height: 23px;
+    color: rgb(207, 207, 24);
+
+
+
+}
+
+.postin-str-1 {
+    position: absolute;
+    width: 21px;
+    height: 19px;
+    left: 147px;
+    top: 755px;
+
+}
+
+.postin-str-2 {
+    position: absolute;
+    width: 21px;
+    height: 19px;
+    left: 170px;
+    top: 755px;
+
+}
+
+.postin-str-3 {
+
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    left: 194px;
+    top: 755px;
+
+}
+
+.postin-str-4 {
+    position: absolute;
+    width: 21px;
+    height: 19px;
+    left: 217px;
+    top: 755px;
+
+
+}
+
+.postin-str-5 {
+    position: absolute;
+    width: 21px;
+    height: 19px;
+    left: 240px;
+    top: 755px;
+
+
+}
+.product-container-2{
+    position: absolute;
+width: 258px;
+height: 262px;
+left: 335px;
+top: 512px;
+border: 1px solid black;
+}
+.raiting-container{
+    position: relative;
+    left: 72%;
+    top: -11%;
+
+}
+.product-price{
+    position: relative;
+    left: 72%;
+    top: 7%;
+}
+.product-image-2{
+    position: relative;
+width: 258px;
+height: 213px;
+
+border: 1px solid black;
+
+}
