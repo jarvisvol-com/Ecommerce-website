@@ -1,0 +1,6 @@
+this is the back end of my app 
+style.json is the dataset which i used in my app. In this repositry images are not included.
+
+download the dependenses which are in package.json file included
+
+and run the server just type nodemon in cmd line 
